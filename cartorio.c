@@ -180,8 +180,7 @@ int main(){ // Função da tela principal do programa
 			
 			case 4:
 			printf("Saindo do sistema...");
-			//system("pause");
-			scanf("%d", &laco);
+			return 0;
 			break;
 			
 			default:
